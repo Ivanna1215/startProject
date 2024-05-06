@@ -1,3 +1,2 @@
 'hello'
-
-"My life is beatifull!" // test User changed this file
+"My life is beatifull!"
