@@ -1,1 +1,2 @@
-Hello from git and local!
+Hello from git and local! 
+Ivanna changed local 
